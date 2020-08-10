@@ -5,6 +5,6 @@ Filesystem in userspace
 Practicing and exploring python-fuse-filesystem for my research project.
 
 
-### reference
+### Reference
 passthrough.py: https://github.com/skorokithakis/python-fuse-sample   
 dfs.py : https://thepythoncorner.com/dev/writing-a-fuse-filesystem-in-python/
